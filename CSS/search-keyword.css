@@ -1,0 +1,42 @@
+.logo {
+    width: 101px;
+    height: 33px;
+}
+.lg {
+    line-height: 80px;
+}
+.search {
+    width: 590px;
+    height: 28px;
+}
+.btn {
+    width: 110px;
+    height: 40px;
+    font-size: 18px;
+}
+.about {
+    color: #9195A3;
+    font: 14px/36px 'microsoft yahei'
+}
+.tool {
+    color: #9195A3;
+    font: 14px/36px 'microsoft yahei'
+}
+.title {
+    font: 18px/23px 'microsoft yahei'
+}
+.result {
+    font: 16px/23px 'microsoft yahei'
+}
+.web {
+    color: #CC0000;
+}
+.time {
+    color: #666666;
+}
+.website {
+    color: #008000
+}
+.kuaizhao {
+    color: #666666;
+}
